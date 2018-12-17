@@ -23,6 +23,9 @@
                     <a class="nav-link" href="<?= BASEURL; ?>/Mahasiswa">Mahasiswa</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="<?= BASEURL; ?>/Ustadz">Ustadz</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="<?= BASEURL; ?>/About">About</a>
                 </li>
                 </ul>
